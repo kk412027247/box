@@ -36,6 +36,7 @@ export default class App extends Component {
 
   }
 
+  
   // 监听动画时候，页面是否更新
   componentDidUpdate(){
     console.log('update')
